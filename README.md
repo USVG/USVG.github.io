@@ -1,7 +1,9 @@
-Progressus - Free business/corporate Bootstrap template
+Initio - Free, multipurpose html5 template
 =============
 
-Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
+Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
+6 page layout templates should cover all your development needs. 
+Font Awesome 4, parallax effects and more are included (but can be turned off of course)
 
 
 License
@@ -9,24 +11,22 @@ License
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
 
-Features
------------
-
-* Easy to use, fat-free HTML and CSS code.
-* 7 ready-made templates for most common tasks
-* Responsive design
-* High overral quality, the template does worth to be premium.
-
-
 Bug tracker
 -----------
 
 Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Progressus/issues
+https://github.com/pozh/Initio/issues
+
 
 
 Credits
 -------
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* Photos used in template: **Unsplash** - http://unsplash.com
 * More free templates by Sergey: http://gettemplate.com
+
+Photos used in the template
+-------
+* http://www.publicdomainpictures.net/view-image.php?image=19999
+* http://www.publicdomainpictures.net/view-image.php?image=6354
+* http://imcreator.com/free/business/macbook-computer
+* http://unsplush.com
